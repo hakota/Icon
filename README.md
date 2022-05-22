@@ -13,7 +13,7 @@ main.swfit がある階層までいき、以下のような入力を行います
 $ swift main.swift -i ~/Desktop/1024x1024.png -o ~/Desktop
 ```
 
-また、main.swiftの海藻で、以下の手順を行うと `icon` コマンドにすることができます。
+また、main.swiftの階層で、以下の手順を行うと `icon` コマンドにすることができます。
 main.swiftと同じ階層でなくても実行することができるようになります。
 
 ```
